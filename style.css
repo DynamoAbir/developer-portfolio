@@ -1,0 +1,46 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+}
+.deadly-color {
+  color: #51ff0d;
+}
+.fahad-tag {
+  font-size: 25px;
+  font-weight: bold;
+}
+.fahad-pera {
+  font-weight: 800;
+  text-align: justify;
+}
+section {
+  display: flex;
+}
+.half-weight {
+  width: 50%;
+  padding-left: 5%;
+}
+
+* {
+  margin: 0px;
+}
+.half-weight img {
+  width: 500px;
+  height: 450px;
+}
+.hire-fahad {
+  text-decoration: none;
+  background-image: linear-gradient(to left, #ff7979, #badc58);
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.fahad-pera {
+  padding-bottom: 40px;
+}
+.top-banner {
+  background-image: url(./images/top-banner.png);
+  background-repeat: no-repeat;
+}
