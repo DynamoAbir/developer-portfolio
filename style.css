@@ -11,6 +11,7 @@ h1 {
 .fahad-tag {
   font-size: 25px;
   font-weight: bold;
+  padding-bottom: 20px;
 }
 .fahad-pera {
   font-weight: 800;
@@ -30,6 +31,7 @@ section {
 .half-weight img {
   width: 500px;
   height: 450px;
+  padding-left: 363px;
 }
 .hire-fahad {
   text-decoration: none;
@@ -44,3 +46,5 @@ section {
   background-image: url(./images/top-banner.png);
   background-repeat: no-repeat;
 }
+
+/*-----End of shagor part---*/
