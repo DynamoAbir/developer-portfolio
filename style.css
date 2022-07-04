@@ -89,3 +89,34 @@ section {
   background-position: right;
 }
 /*End Of Fahims Part*/
+.box-tag {
+  color: #ef5709;
+}
+
+.addshadow {
+  box-shadow: 10px 10px 40px grey;
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 40px;
+  border-radius: 10px;
+}
+h2 {
+  font-size: 40px;
+}
+.Playing-style {
+  background-image: url(./images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+#baby-fragger {
+  border-left: 7px solid;
+  border-image: linear-gradient(180deg, tomato, white);
+  border-image-slice: 1;
+}
+#gold-fragger {
+  border-left: 7px solid;
+  border-image: linear-gradient(45deg, blue, white);
+  border-image-slice: 1;
+}
+/*---End of Shadow---*/
