@@ -25,13 +25,13 @@ section {
   padding-left: 5%;
 }
 
-* {
+body {
   margin: 0px;
 }
 .half-weight img {
   width: 500px;
   height: 450px;
-  padding-left: 363px;
+  padding-left: 363px;gi
 }
 .hire-fahad {
   text-decoration: none;
@@ -48,3 +48,38 @@ section {
 }
 
 /*-----End of shagor part---*/
+
+.fahim{
+  color:#BBA14F;
+}
+.fahim-tag{font-size: 25px;
+  font-weight: bold;
+  padding-bottom: 20px;}
+  .fahim-pera{
+    font-weight: 800;
+    padding-bottom: 20px;
+  }
+  .toxic{
+    color: #00ED01;
+  }
+  .fahim-half{width: 500px;
+    height: 450px;
+    padding-left: 690px;}
+
+    .fahim-part div img{
+      padding-left: 100px;
+    }
+    section{display: flex;
+    margin-bottom: 100px;}
+    .hire-fahim{text-decoration: none;
+  background-image: linear-gradient(to right, #FF6EC7, #9D00FF);
+  padding: 10px 30px;
+  border-radius: 10px;
+
+    }
+    .fahim-part{
+      background-image: url(./images/dream-bg.png);
+      background-repeat: no-repeat;
+      background-position: right;
+    }
+/*End Of Fahims Part*/
