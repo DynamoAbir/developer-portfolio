@@ -17,7 +17,7 @@ h1 {
   font-weight: 800;
   text-align: justify;
 }
-section {
+.flexible-container {
   display: flex;
 }
 .half-weight {
@@ -75,7 +75,6 @@ body {
   padding-left: 100px;
 }
 section {
-  display: flex;
   margin-bottom: 100px;
 }
 .hire-fahim {
